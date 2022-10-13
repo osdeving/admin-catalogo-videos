@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74322d0-1e62-46b8-a925-eb0af2ca6536" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/br/com/willams/admin/catalogo/application/UseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/test/java/br/com/willams/admin/catalogo/application/UseCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/br/com/willams/admin/catalogo/domain/category/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/java/br/com/willams/admin/catalogo/domain/category/CategoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infrasctructure/src/main/java/br/com/willams/admin/catalogo/infrasctucture/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infrasctructure/src/test/java/br/com/willams/admin/catalogo/infrastructure/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="c74322d0-1e62-46b8-a925-eb0af2ca6536" name="Changes" comment="criou projeto inicial módulos e o primeiro agregado">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,12 +63,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="br.com.willams.admin.catalogo.domain.category" />
@@ -201,6 +185,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665673950888</updated>
     </task>
+    <task id="LOCAL-00001" summary="criou projeto inicial módulos e o primeiro agregado">
+      <created>1665676308495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665676308495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="criou projeto inicial módulos e o primeiro agregado">
+      <created>1665676394313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665676394313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,5 +212,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="criou projeto inicial módulos e o primeiro agregado" />
+    <option name="LAST_COMMIT_MESSAGE" value="criou projeto inicial módulos e o primeiro agregado" />
   </component>
 </project>
